@@ -1,0 +1,31 @@
+.img {
+    width: 288px;
+    height: 243px;
+}
+
+.card img {
+    width: 149px;
+    height: 149px;
+}
+
+#img1 {
+    width: 431px;
+    height: 423px;
+}
+
+.bg-background {
+    background-color: #264653;
+}
+
+.top-btn {
+    background-color: #E76F51;
+    width: 168px;
+    height: 44px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+span {
+    color: #E76F51;
+}
