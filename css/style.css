@@ -29,3 +29,7 @@
 span {
     color: #E76F51;
 }
+
+.gray {
+    filter: grayscale(100%);
+}
