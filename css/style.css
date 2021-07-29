@@ -33,3 +33,12 @@ span {
 .gray {
     filter: grayscale(100%);
 }
+
+.rounded-circle {
+    width: 149px;
+    height: 149px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
